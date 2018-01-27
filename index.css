@@ -1,0 +1,155 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12/01/2018, 04:50:28 PM
+    Author     : marcos
+*/
+
+body
+{
+   background-image: url("./imagenes/fondo1.jpg");
+}
+
+h1
+{
+    
+    font-family: "Times New Roman", Times, serif;
+    font-size: 100px;
+    text-shadow: 5px grey;
+}
+
+div.cuadro
+{
+    color: blue;
+    width: 800px;
+    border: 25px;
+    padding: 205px;
+    margin: 25px;
+    box-shadow: -1px 1px 1px 2px grey;
+    
+    
+}
+
+div.nombre
+{
+    font-family: "Sans-serif";
+    font-size: 90px;
+    color: #ffffff;
+    line-height: 700px;
+}
+
+div.inicio
+{
+    font-family: "Sans-serif";
+    color: #ffffff;
+    font-size: 30px;
+    background-color: #27272b;
+    height:10%;
+    width: 100%;
+    line-height: 80px;
+    padding-left: 20px;
+}
+
+div.media
+{
+    
+    background-image: url("./imagenes/fondo2.jpg");
+    height: 60%;
+    width: 100%;
+    
+}
+
+div.portafoliotitle
+{
+    padding-left: 20px;
+    height: 40%;
+    width: 100%;
+}
+
+div.footer
+{
+    
+    
+}
+
+img.a   
+{
+    height: 200px;
+     padding: 30px;
+     padding-top: 100px;
+     padding-bottom: 150px;
+    -webkit-transform: scale(1,1);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 250ms;
+    -moz-transform: scale(1,1);
+    -moz-transition-timing-function: ease-out;
+    -moz-transition-duration: 250ms;
+}
+
+img.a:hover
+{
+    -webkit-transform: scale(1.12,1.12);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 100ms;
+    -moz-transform: scale(1.12,1.12);
+    -moz-transition-timing-function: ease-out;
+    -moz-transition-duration: 100ms;
+    
+}
+
+td.zoom
+{
+    -webkit-transform: scale(1,1);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 250ms;
+    -moz-transform: scale(1,1);
+    -moz-transition-timing-function: ease-out;
+    -moz-transition-duration: 250ms;
+}
+
+td.zoom:hover
+{
+    -webkit-transform: scale(1.20,1.20);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 200ms;
+    -moz-transform: scale(1.20,1.20);
+    -moz-transition-timing-function: ease-out;
+    -moz-transition-duration: 200ms;
+}
+
+img.Logo
+{
+    width: 50px;
+}
+
+img.b  
+
+{
+    height: 200px;
+     padding: 30px;
+     padding-top: 100px;
+     padding-bottom: 150px;
+    -webkit-transform: scale(1,1);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 250ms;
+    -moz-transform: scale(1,1);
+    -moz-transition-timing-function: ease-out;
+    -moz-transition-duration: 250ms;
+}
+
+img.b:hover
+{
+    -webkit-transform: scale(1.12,1.12);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 100ms;
+    -moz-transform: scale(1.12,1.12);
+    -moz-transition-timing-function: ease-out;
+    -moz-transition-duration: 100ms;
+    
+    
+}
+
+
